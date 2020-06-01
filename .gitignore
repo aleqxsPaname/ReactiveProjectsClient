@@ -1,0 +1,10 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### avoiding target because it is duplicate code
+target/
+
+### avoiding properties if we have password, credentials...
