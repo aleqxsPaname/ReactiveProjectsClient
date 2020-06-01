@@ -1,4 +1,4 @@
-### IntelliJ IDEA ###
+### avoiding all conf regarding the IDE (here IntelliJ IDEA) ###
 .idea
 *.iws
 *.iml
